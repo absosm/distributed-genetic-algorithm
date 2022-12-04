@@ -1,0 +1,6 @@
+Salam;
+oui merci, les résultats me semblent intéressants; mai essaie toi de prendre en considération les point suivants:
+
+1: remonter le taux de mutation jusqu’à 4% car 0.5% est trop peu;
+2: tu refais les memes testes (établir les graphes correspondants) mais avec des stratégies différentes (a: migration de meilleurs individus, b: migration des mauvaises individus, c: migration aléatoire)
+2: tu fixe le taux de mutation, le taux de croisement, la taille de population, le nombre de génération, la stratégie de migration puis tu fait varier le taux de migration (5%, 10%, 15%, 20%, …. 50%), il faut établir le graphe qui correspond à chaque taux de migration (graphe de 5% de migration, graphe de 10% ……)

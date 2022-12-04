@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ag_reparti>
+  <tete>
+    <nombre_ag>1</nombre_ag>
+    <ville_depart>6</ville_depart>
+    <taille_population>3</taille_population>
+    <taux_croisement>0.8</taux_croisement>
+    <taux_mutation>0.04</taux_mutation>
+    <nb_generation>1</nb_generation>
+    <period_migration>50</period_migration>
+    <strtg_migration>1</strtg_migration>
+    <taux_migration>0.05</taux_migration>
+    <last_generation>1</last_generation>
+  </tete>
+  <values>
+    <generation id="0">
+      <ag id="0">32900.5</ag>
+    </generation>
+  </values>
+  <contents>
+    <population id="0">
+      <chromosome id="0">
+        <g id="0">31</g>
+        <g id="1">36</g>
+        <g id="2">18</g>
+        <g id="3">30</g>
+        <g id="4">45</g>
+        <g id="5">21</g>
+        <g id="6">28</g>
+        <g id="7">16</g>
+        <g id="8">32</g>
+        <g id="9">11</g>
+        <g id="10">40</g>
+        <g id="11">37</g>
+        <g id="12">4</g>
+        <g id="13">29</g>
+        <g id="14">38</g>
+        <g id="15">17</g>
+        <g id="16">20</g>
+        <g id="17">2</g>
+        <g id="18">34</g>
+        <g id="19">14</g>
+        <g id="20">5</g>
+        <g id="21">0</g>
+        <g id="22">43</g>
+        <g id="23">7</g>
+        <g id="24">39</g>
+        <g id="25">13</g>
+        <g id="26">8</g>
+        <g id="27">33</g>
+        <g id="28">22</g>
+        <g id="29">42</g>
+        <g id="30">26</g>
+        <g id="31">12</g>
+        <g id="32">1</g>
+        <g id="33">9</g>
+        <g id="34">46</g>
+        <g id="35">47</g>
+        <g id="36">3</g>
+        <g id="37">23</g>
+        <g id="38">15</g>
+        <g id="39">10</g>
+        <g id="40">41</g>
+        <g id="41">24</g>
+        <g id="42">27</g>
+        <g id="43">25</g>
+        <g id="44">35</g>
+        <g id="45">19</g>
+        <g id="46">44</g>
+      </chromosome>
+      <chromosome id="1">
+        <g id="0">25</g>
+        <g id="1">36</g>
+        <g id="2">35</g>
+        <g id="3">19</g>
+        <g id="4">44</g>
+        <g id="5">21</g>
+        <g id="6">28</g>
+        <g id="7">31</g>
+        <g id="8">16</g>
+        <g id="9">32</g>
+        <g id="10">11</g>
+        <g id="11">40</g>
+        <g id="12">18</g>
+        <g id="13">37</g>
+        <g id="14">4</g>
+        <g id="15">29</g>
+        <g id="16">38</g>
+        <g id="17">45</g>
+        <g id="18">17</g>
+        <g id="19">20</g>
+        <g id="20">2</g>
+        <g id="21">34</g>
+        <g id="22">14</g>
+        <g id="23">5</g>
+        <g id="24">0</g>
+        <g id="25">43</g>
+        <g id="26">7</g>
+        <g id="27">39</g>
+        <g id="28">13</g>
+        <g id="29">8</g>
+        <g id="30">30</g>
+        <g id="31">33</g>
+        <g id="32">22</g>
+        <g id="33">42</g>
+        <g id="34">26</g>
+        <g id="35">12</g>
+        <g id="36">1</g>
+        <g id="37">9</g>
+        <g id="38">46</g>
+        <g id="39">47</g>
+        <g id="40">3</g>
+        <g id="41">23</g>
+        <g id="42">15</g>
+        <g id="43">10</g>
+        <g id="44">41</g>
+        <g id="45">24</g>
+        <g id="46">27</g>
+      </chromosome>
+      <chromosome id="2">
+        <g id="0">22</g>
+        <g id="1">9</g>
+        <g id="2">34</g>
+        <g id="3">8</g>
+        <g id="4">43</g>
+        <g id="5">21</g>
+        <g id="6">28</g>
+        <g id="7">31</g>
+        <g id="8">16</g>
+        <g id="9">32</g>
+        <g id="10">11</g>
+        <g id="11">40</g>
+        <g id="12">18</g>
+        <g id="13">37</g>
+        <g id="14">4</g>
+        <g id="15">29</g>
+        <g id="16">38</g>
+        <g id="17">45</g>
+        <g id="18">17</g>
+        <g id="19">20</g>
+        <g id="20">2</g>
+        <g id="21">14</g>
+        <g id="22">5</g>
+        <g id="23">0</g>
+        <g id="24">7</g>
+        <g id="25">39</g>
+        <g id="26">13</g>
+        <g id="27">30</g>
+        <g id="28">33</g>
+        <g id="29">42</g>
+        <g id="30">26</g>
+        <g id="31">12</g>
+        <g id="32">1</g>
+        <g id="33">46</g>
+        <g id="34">47</g>
+        <g id="35">3</g>
+        <g id="36">23</g>
+        <g id="37">15</g>
+        <g id="38">10</g>
+        <g id="39">41</g>
+        <g id="40">24</g>
+        <g id="41">27</g>
+        <g id="42">25</g>
+        <g id="43">36</g>
+        <g id="44">35</g>
+        <g id="45">19</g>
+        <g id="46">44</g>
+      </chromosome>
+    </population>
+  </contents>
+</ag_reparti>
